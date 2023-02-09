@@ -8,4 +8,7 @@ function setup() {
 function draw() {
   background(55);
 
+  fill(255,0,0);
+  circle(width/2,height/2,20);
+
 }
