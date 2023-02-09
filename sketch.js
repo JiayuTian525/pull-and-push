@@ -26,9 +26,14 @@ function draw() {
   circle(820,1730,1000); // second green arc
 
   fill(55);
-  rect(820+550,1730,1000,1000); //second bg rect
+  rect(820+550,1732,1000,1000); //second bg rect
 
-  
+  fill(26, 121, 190);
+  triangle(870, 1730, 1370, 1730, 870, 2230);//blue tri
+  ellipse(625, 980, 430, 430);//small blue circle
+
+  fill(232,72,59);
+  ellipse(625+500, 980+500, 430, 430);//final red circle
 
  
 
