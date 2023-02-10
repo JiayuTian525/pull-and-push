@@ -35,6 +35,10 @@ function draw() {
   fill(232,72,59);
   ellipse(625+500, 980+500, 430, 430);//final red circle
 
+  fill(244,185,54);
+  circle(1400,2230-200,400);
+
+
  
 
 }
